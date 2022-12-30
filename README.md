@@ -1,5 +1,5 @@
 # JPA-Advance-Study
-김영한 님의 강의 JPA 기본편 강의 스터디
+김영한 님의 강의 실전! 스프링 데이터 JPA 스터디
 
 ## Who
 
